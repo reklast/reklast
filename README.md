@@ -1,4 +1,4 @@
-![steve](steve.gif) / ! [](steve.gif)
+![steve](steve.gif) [](steve.gif)
 
 
 - 👋 Hi, I’m @reklast
